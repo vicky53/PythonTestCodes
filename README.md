@@ -1,2 +1,3 @@
 # PythonTestCodes
-All Python codings practiced
+All Python coding practiced during ZerToMastery course.
+
